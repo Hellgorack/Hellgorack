@@ -1,0 +1,4 @@
+- 👋 eae, eu sou o tal do @Hellgorack
+- 👀 me interesso por programação no geral
+- 🌱 to aprendendo C#, PHP, SQL.
+- 📫 Me manda mensagem no Discord: hellgorack
