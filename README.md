@@ -1,4 +1,5 @@
 - 👋 eae, eu sou o tal do @Hellgorack
 - 👀 me interesso por programação no geral
+- Já domino PHP, SQL, C, C#, JavaScript, HTML5 , CSS3.
 - 🌱 to aprendendo C#, PHP, SQL.
 - 📫 Me manda mensagem no Discord: hellgorack
